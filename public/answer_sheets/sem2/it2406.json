@@ -245,12 +245,12 @@
     },
 
     "2025": {
-        "comments": "Note : Answers are generated from our offical vle notes + AI LLM's\n100% accuracy is not guaranteed. Please use this as a reference only.\nQ7: Free Marks! I think cause their is no correct answer for that question.\nQ11: Free Marks! Cause Frameset can't be in Head.\nQ34: Not suer!",
+        "comments": "",
         "time": "2H",
         "answerType": "multi",
         "qcount": 40,
         "questions": {
-            "1": ["a", "b", "c"],
+            "1": ["a", "b", "c", "e"],
             "2": ["a", "b", "c", "d"],
             "3": ["a", "c","e"],
             "4": ["c"],
@@ -271,7 +271,7 @@
             "19": ["a", "c", "d"],
             "20": ["e"],
             "21": ["a", "c", "d", "e"],
-            "22": ["a", "c", "e"],
+            "22": ["a", "c", "d", "e"],
             "23": ["a", "b", "d", "e"],
             "24": ["a", "c", "d", "e"],
             "25": ["all"],
