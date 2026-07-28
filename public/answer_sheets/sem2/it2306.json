@@ -245,7 +245,7 @@
     },
 
     "2025": {
-        "comments": "Note : Answers are generated from our offical vle notes + AI LLM's\n100% accuracy is not guaranteed. Please use this as a reference only.",
+        "comments": "",
         "time" : "2H",
         "answerType": "multi",
         "qcount": 40,
@@ -267,7 +267,7 @@
             "15": ["c"],
             "16": ["a"],
             "17": ["b", "c"],
-            "18": ["b", "d"],
+            "18": ["b"],
             "19": ["a", "b"],
             "20": ["e"],
             "21": ["c"],
